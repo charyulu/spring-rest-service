@@ -41,7 +41,7 @@
 	<repositories>
   <repository>
     <id>prasadcharyulu</id>
-    <url>https://prasadcharyulu.pkgs.visualstudio.com/_packaging/sudarsanam/maven/v1</url>
+    <url>https://prasadcharyulu.pkgs.visualstudio.com/_packaging/prasadcharyulu/maven/v1</url>
     <releases>
       <enabled>true</enabled>
     </releases>
@@ -53,7 +53,7 @@
   <distributionManagement>
     <repository>
       <id>prasadcharyulu</id>
-      <url>https://prasadcharyulu.pkgs.visualstudio.com/_packaging/sudarsanam/maven/v1</url>
+      <url>https://prasadcharyulu.pkgs.visualstudio.com/_packaging/prasadcharyulu/maven/v1</url>
       <releases>
         <enabled>true</enabled>
       </releases>
